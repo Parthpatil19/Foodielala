@@ -1,3 +1,3 @@
 ﻿# FoodieLala
 
-link to project: https://shivamsan.github.io/FoodieLala/
+link to project: 
